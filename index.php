@@ -35,7 +35,7 @@
             background-color: #f4f4f4;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #608cff;
             color: white;
             padding: 20px 0;
             text-align: center;
@@ -94,7 +94,7 @@
 <body>
     <header>
         <div class="container">
-            Point of Interests
+            Kelompok 7 Pemweb SI E - Point of Interests
         </div>
     </header>
 
